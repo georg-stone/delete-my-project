@@ -1,0 +1,19 @@
+{
+  "name": "delete-my-project",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["rm-rf", "delete", "project", "delete-my-project"],
+  "author": "",
+  "license": "MIT",
+  "description": "delete your project in just 20 seconds",
+  "bin": {
+    "del": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georg-stone/delete-my-project.git"
+  }
+}
